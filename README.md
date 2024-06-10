@@ -16,13 +16,20 @@
 ### Stacks
 
 #### Environment
-### ![image](https://github.com/gui4458/Nolloo/assets/159219020/7ad57fc1-50f2-4731-913e-8a8e6a3433a3) 
-### ![image](https://github.com/gui4458/Nolloo/assets/159219020/d0f528eb-627d-4efa-b749-10ac9c1c60cc)
-### ![image](https://github.com/gui4458/Nolloo/assets/159219020/a23359fd-78ef-4af4-8b45-54ac70308053)
+ ![image](https://github.com/gui4458/Nolloo/assets/159219020/7ad57fc1-50f2-4731-913e-8a8e6a3433a3) 
+ ![image](https://github.com/gui4458/Nolloo/assets/159219020/d0f528eb-627d-4efa-b749-10ac9c1c60cc)
+ ![image](https://github.com/gui4458/Nolloo/assets/159219020/a23359fd-78ef-4af4-8b45-54ac70308053)
 
 
 #### Develop
-### ![image](https://github.com/gui4458/Nolloo/assets/159219020/e4bf22f5-db8f-49a6-a045-23f018fe06db) 
-### ![image](https://github.com/gui4458/Nolloo/assets/159219020/6d5bfd8f-2562-4ef4-af07-34870fafb3fc)
+ ![image](https://github.com/gui4458/Nolloo/assets/159219020/e4bf22f5-db8f-49a6-a045-23f018fe06db) 
+ ![image](https://github.com/gui4458/Nolloo/assets/159219020/6d5bfd8f-2562-4ef4-af07-34870fafb3fc)
+ ![image](https://github.com/gui4458/Nolloo/assets/159219020/c6c1a2d4-a0c9-4f6b-b5fc-c67eb281f50f)
+ ![image](https://github.com/gui4458/Nolloo/assets/159219020/1f789ae8-53ec-4f84-84fd-b65e17b01f11)
+ ![image](https://github.com/gui4458/Nolloo/assets/159219020/2f628c31-d54c-403f-96e8-cf6a0b1a0ca6)
+
+ 
+
+ 
 
 
