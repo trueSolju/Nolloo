@@ -16,6 +16,7 @@
 
 
 ### Stacks
+# 
 
 #### Environment
  ![image](https://github.com/gui4458/Nolloo/assets/159219020/7ad57fc1-50f2-4731-913e-8a8e6a3433a3) 
@@ -35,6 +36,7 @@
 
 
 ### 주요기능 
+# 
 
 #### 1. Infinite Scroll
 ##### - 메인 페이지 아이템들을 첫 화면에서는 6개의 컨텐츠를 띄우주고 스크롤이 끝에 닿을 시 3개의 컨텐츠 추가 출력하는 기능
