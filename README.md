@@ -3,12 +3,12 @@
 #### 파티, 축제 정보 공유 사이트 
 
 ### PPT
-
+#
 [NOLLOO프로젝트_최종](https://www.canva.com/design/DAGFcuqiaJs/0sfp9QdKDpqApZuFA4adng/view?utm_content=DAGFcuqiaJs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ### 프로젝트 정보
-
+#
 ###### 1)프로젝트 명: NOLLOO/"놀러 가자"의 줄임말로 사용자들이 기억하고 부르기 쉬운 사이트이름 
 ###### 2)프로젝트 목적: 전국의 파티, 축제, 모임 정보를 공유하고자 하는 사용자들을 위한 플랫폼
 ###### 3)프로젝트 기간: 2024.03.20-2024.05.20
