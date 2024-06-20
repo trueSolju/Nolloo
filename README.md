@@ -2,7 +2,7 @@
 
 #### 파티, 축제 정보 공유 사이트 
 
-### PPT
+### PPT ---
 [NOLLOO프로젝트_최종](https://www.canva.com/design/DAGFcuqiaJs/0sfp9QdKDpqApZuFA4adng/view?utm_content=DAGFcuqiaJs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
@@ -56,6 +56,7 @@
 ##### - 회원정보수정, 예약내역, 나의 파티를 설정할 수 있는 기능 구현
 
 #### 테이블 설계
+![image](https://github.com/trueSolju/Nolloo/assets/159218938/e54eeae8-ae0e-4bc8-af47-71be5432cb5d)
 
 
 
