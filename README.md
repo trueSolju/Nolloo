@@ -2,7 +2,7 @@
 
 #### 파티, 축제 정보 공유 사이트 
 
-### PPT 
+## PPT
 [NOLLOO프로젝트_최종](https://www.canva.com/design/DAGFcuqiaJs/0sfp9QdKDpqApZuFA4adng/view?utm_content=DAGFcuqiaJs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
