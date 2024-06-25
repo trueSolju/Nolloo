@@ -55,6 +55,9 @@
 ## 테이블 설계
 ![image](https://github.com/trueSolju/Nolloo/assets/159218938/e54eeae8-ae0e-4bc8-af47-71be5432cb5d)
 
+## 시연 영상
+##### [PROJECT "NOLLOO" VIDEO][JWlUZIfDFEld5eIQ](https://youtu.be/QYfmaQWF8Ow?si=JWlUZIfDFEld5eIQ)
+
 
 
  
